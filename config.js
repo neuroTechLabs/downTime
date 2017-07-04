@@ -65,7 +65,7 @@
 		// "color" = SOLID COLOR BACKGROUND
 		// "kenburns" = KEN BURNS SLIDER BACKGROUND
 		
-		background: "youtube",
+		background: "image",
 		
 		
 		
